@@ -37,6 +37,18 @@ export const COMMUNITY_NAV_GROUPS: CommunityNavGroup[] = [
       { key: 'code-of-conduct', label: 'Code of Conduct', to: '/community/code-of-conduct' },
     ],
   },
+  {
+    key: 'join-us',
+    label: 'Join us',
+    items: [
+      { key: 'open-positions', label: 'Open positions', to: '/community/open-positions' },
+      {
+        key: 'ecosystem',
+        label: 'Ecosystem & partnerships',
+        to: '/community/ecosystem',
+      },
+    ],
+  },
 ]
 
 export const COMMUNITY_NAV_ITEMS: CommunityNavItem[] = COMMUNITY_NAV_GROUPS.flatMap(

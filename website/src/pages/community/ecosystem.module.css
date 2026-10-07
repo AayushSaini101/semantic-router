@@ -1,0 +1,12 @@
+.panel {
+  min-width: 0;
+  margin: -0.25rem -0.5rem 0;
+  border: 1px solid var(--site-border);
+  border-radius: 0.75rem;
+  overflow: hidden;
+  background: var(--site-surface);
+}
+
+.panel :global(#ecosystem) {
+  scroll-margin-top: 0;
+}

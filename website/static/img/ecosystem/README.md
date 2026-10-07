@@ -28,5 +28,7 @@ the same artwork, including the original yellow and blue V. Both are
 2160 × 690 pixels.
 
 `atmosphere.webp` is the generated background plate. `ecosystem.webp` is a static
-export of the homepage ecosystem section for the repository README. Keep its
-logo order and copy synchronized with `EcosystemSection.tsx`.
+export of the ecosystem logo grid for the repository README. Keep its logo order
+and copy synchronized with
+`website/src/components/ecosystem/organizations.ts` and the Community page at
+`/community/ecosystem`.

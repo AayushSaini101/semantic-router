@@ -43,6 +43,14 @@
     "message": "排行榜",
     "description": "The label of footer link with label=Leaderboard linking to /community/contributors"
   },
+  "link.item.label.Open positions": {
+    "message": "开放职位",
+    "description": "The label of footer link with label=Open positions linking to /community/open-positions"
+  },
+  "link.item.label.Ecosystem & partnerships": {
+    "message": "生态与合作",
+    "description": "The label of footer link with label=Ecosystem & partnerships linking to /community/ecosystem"
+  },
   "link.item.label.Blog": {
     "message": "博客",
     "description": "The label of footer link with label=Blog linking to /blog"

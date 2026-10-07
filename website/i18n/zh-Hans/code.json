@@ -3047,8 +3047,77 @@
   "homepage.ecosystem.cta": {
     "message": "与我们一起构建"
   },
+  "homepage.ecosystem.exploreCta": {
+    "message": "探索生态"
+  },
   "homepage.ecosystem.decisionLayer": {
     "message": "决策层"
+  },
+  "ecosystem.title": {
+    "message": "生态与合作"
+  },
+  "ecosystem.description": {
+    "message": "面向模型与算力的开放、可编程{decisionLayer}。"
+  },
+  "ecosystem.growing": {
+    "message": "开放的社区，持续成长。"
+  },
+  "ecosystem.cta": {
+    "message": "与我们一起构建"
+  },
+  "ecosystem.decisionLayer": {
+    "message": "决策层"
+  },
+  "community.ecosystem.title": {
+    "message": "生态与合作"
+  },
+  "community.ecosystem.subtitle": {
+    "message": "面向模型与算力的开放、可编程{decisionLayer}。"
+  },
+  "community.ecosystem.decisionLayer": {
+    "message": "决策层"
+  },
+  "community.ecosystem.cta": {
+    "message": "与我们一起构建"
+  },
+  "community.openPositions.title": {
+    "message": "与我们一起构建"
+  },
+  "community.openPositions.subtitle": {
+    "message": "开放职位、贡献路径，以及与项目合作的方式。"
+  },
+  "community.openPositions.intro": {
+    "message": "vLLM Semantic Router 是一个开放项目。无论你希望在合作组织中担任正式角色，还是以社区成员身份贡献，都可以从这里开始。"
+  },
+  "community.openPositions.rolesHeading": {
+    "message": "开放职位"
+  },
+  "community.openPositions.rolesBody": {
+    "message": "正式职位由参与组织发布，开放后将在此列出。请稍后查看，或通过 GitHub Discussions 探讨合作机会。"
+  },
+  "community.openPositions.contributeHeading": {
+    "message": "立即贡献"
+  },
+  "community.openPositions.contributingCard.title": {
+    "message": "贡献指南"
+  },
+  "community.openPositions.contributingCard.body": {
+    "message": "欢迎代码、文档、评估与运维方面的贡献。"
+  },
+  "community.openPositions.contributingCard.cta": {
+    "message": "阅读贡献指南"
+  },
+  "community.openPositions.ecosystemCard.title": {
+    "message": "生态与合作"
+  },
+  "community.openPositions.ecosystemCard.body": {
+    "message": "了解与项目共建、同行的组织。"
+  },
+  "community.openPositions.ecosystemCard.cta": {
+    "message": "查看生态"
+  },
+  "community.openPositions.channelsHeading": {
+    "message": "联系渠道"
   },
   "homepage.hero.beyond": {
     "message": "超越单一模型。"

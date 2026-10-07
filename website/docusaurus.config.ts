@@ -404,6 +404,14 @@ const config: Config = {
               label: 'Leaderboard',
               to: '/community/contributors',
             },
+            {
+              label: 'Open positions',
+              to: '/community/open-positions',
+            },
+            {
+              label: 'Ecosystem & partnerships',
+              to: '/community/ecosystem',
+            },
           ],
         },
         {
