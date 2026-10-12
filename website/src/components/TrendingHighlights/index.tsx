@@ -29,6 +29,22 @@ interface Highlight {
 
 const highlights: Highlight[] = [
   {
+    id: 'clem-delangue-hf-mention',
+    dateIso: '2026-06-30',
+    dateLabel: 'June 30, 2026',
+    label: 'Hugging Face leadership',
+    title: 'Clem Delangue highlights vLLM Semantic Router',
+    statement:
+      'Hugging Face Co-founder & CEO Clem Delangue called out open-source router systems like vLLM Semantic Router—arguing the future is multi-model and that customizable routers can shift value toward a long tail of (especially open-source) models.',
+    image: '/img/trending/clem-delangue-hf-mention.png',
+    imageWidth: 1280,
+    imageHeight: 720,
+    imageAlt:
+      'Clément Delangue quote card: the future is multi-models and you’ll want to customize your router the same way you customize your code.',
+    sourceLabel: 'X · @ClementDelangue',
+    sourceUrl: 'https://x.com/ClementDelangue/status/2071987200481202217',
+  },
+  {
     id: 'hf-model-downloads',
     dateIso: '2026-10-10',
     dateLabel: 'October 10, 2026',
